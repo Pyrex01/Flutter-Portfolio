@@ -39,7 +39,7 @@ class StaticUtils {
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
+      'https://www.canva.com/design/DAF-hw_-74A/ncll-MbXkJh-qZLyiUFt8w/view';
 
   static const String gitHub = 'https://github.com/Pyrex01';
 }
