@@ -1,0 +1,51 @@
+{
+    "name": "Riyan Khan",
+    "email": "riyankhanpyrex01@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+        "Backend Developer",
+        "Enthusiastic Developer"
+    ],
+    "socialLinks": [
+
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/riyan--khan"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/Pyrex01"
+        }
+    ],
+    "aboutMeHeadline": "I'm Riyan Khan, a Full Stack Developer.",
+    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "Python",
+        "Java",
+        "NodeJS",
+        "NestJs",
+        "Spring Boot",
+        "Micro-services",
+        "AWS",
+        "Swift"
+    ],
+    "hireMe": {
+        "whatsapp": "+91 7304100368 | +971 525657721"
+    },
+    "contact": [
+        {
+            "param": "address",
+            "value": "Dubai, UAE"
+        },
+        {
+            "param": "phone",
+            "value": "+971 525657721 | +91 7304100368"
+        },
+        {
+            "param": "email",
+            "value": "riyankhanpyrex01@gmail.com"
+        }
+    ]
+}
