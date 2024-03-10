@@ -65047,7 +65047,7 @@ E(a){var s,r,q,p,o=null,n="Montserrat",m=a.K(t.w).f.a,l=m.b,k=A.pA(0,A.FZ(new A.
 g.toString
 s=A.bk("Riyan",$.RD.Ik(n,B.c1),o,o)
 r=A.bk("Khan",$.afI.Ig(1),o,o)
-q=A.dn(A.a([A.mi(B.fM,$.cb.a,o),A.afG(A.a([A.l5(" Flutter Developer",B.ay,$.eN),A.l5(" UI/UX Enthusiast",B.ay,$.eN),A.l5(" A friend :)",B.ay,$.eN)],t.u6),!0,!1)],i),B.q,B.w)
+q=A.dn(A.a([A.mi(B.fM,$.cb.a,o),A.afG(A.a([A.l5(" Flutter Developer",B.ay,$.eN),A.l5(" Backend Developer",B.ay,$.eN),A.l5(" Enthusiastic Developer",B.ay,$.eN)],t.u6),!0,!1)],i),B.q,B.w)
 p=$.a5A
 p.toString
 return A.c3(A.ij(B.b2,A.a([k,A.bU(o,A.cK(A.a([h,g,s,r,new A.eP(q,B.aK,B.b7,B.td,o),p,B.kD],i),B.aI,B.q,B.w),o,o,o,new A.aN(j*30*0.77+30,j*50*0.77+50,0,0),o,o)],i),B.bt),l*1.02,o)}}
