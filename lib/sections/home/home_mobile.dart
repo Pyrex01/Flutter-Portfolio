@@ -76,21 +76,21 @@ class HomeMobile extends StatelessWidget {
                     ),
                     AnimatedTextKit(
                       animatedTexts: [
-                        TyperAnimatedText(
-                          ' Flutter Developer',
-                          speed: const Duration(milliseconds: 50),
-                          textStyle: AppText.b1,
-                        ),
-                        TyperAnimatedText(
-                          ' UI/UX Enthusiast',
-                          speed: const Duration(milliseconds: 50),
-                          textStyle: AppText.b1,
-                        ),
-                        TyperAnimatedText(
-                          ' A friend :)',
-                          speed: const Duration(milliseconds: 50),
-                          textStyle: AppText.b1,
-                        ),
+                       TyperAnimatedText(
+                            ' Flutter Developer',
+                            speed: const Duration(milliseconds: 50),
+                            textStyle: AppText.b1,
+                          ),
+                          TyperAnimatedText(
+                            ' Backend Developer',
+                            speed: const Duration(milliseconds: 50),
+                            textStyle: AppText.b1,
+                          ),
+                          TyperAnimatedText(
+                            ' Enthusiastic Developer',
+                            speed: const Duration(milliseconds: 50),
+                            textStyle: AppText.b1,
+                          ),
                       ],
                       repeatForever: true,
                       isRepeatingAnimation: true,
